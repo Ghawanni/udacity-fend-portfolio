@@ -8,8 +8,9 @@ header{
   padding: 0 0 2% 0;
 }
 
-.titile{
+.title{
   position: relative;
+  text-align: center;
 }
 
 #hero-img{
@@ -18,7 +19,9 @@ header{
 }
 
 #logo{
-  width: 100%;
+  width: auto;
+  height: 144px;
+  align-self: center;
 }
 
 article{
